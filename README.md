@@ -36,7 +36,7 @@ Si buscas a alguien apasionado por la tecnología, con mentalidad de aprendizaje
 
 ## 📞 Contacto
 
-- **Correo electrónico:** alejandro.06555@gmail.com  
+- **Email:** alejandro.06555@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/alejandro-manuel-cejas-7296a42bb/
 
 ---
