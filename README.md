@@ -2,7 +2,7 @@
 
 # 💻 Desarrollador Web Full Stack | Especialización en Backend
 
-Actualmente curso **Desarrollo Web Full Stack** en **Henry**, donde he adquirido habilidades prácticas en tecnologías como:
+Graduado de la carrera **Desarrollo Web Full Stack** en **Henry**, donde he adquirido habilidades prácticas en tecnologías como:
 
 - **Lenguajes de programación:** JavaScript, TypeScript  
 - **Frameworks y Librerías:** Express, NestJS, React  
@@ -45,7 +45,7 @@ Si buscas a alguien apasionado por la tecnología, con mentalidad de aprendizaje
 
 # 💻 Full Stack Web Developer | Backend Specialization
 
-I am currently studying **Full Stack Web Development** at **Henry**, gaining solid skills in:
+Graduate of the Full Stack Web Development program at Henry, where I've gained hands-on skills in technologies such as:
 
 - **Programming Languages:** JavaScript, TypeScript  
 - **Frameworks and Libraries:** Express, NestJS, React  
