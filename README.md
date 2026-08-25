@@ -72,3 +72,80 @@ También estoy trabajando en mejorar continuamente mi inglés técnico y mi expe
 * **Email:** [alejandro.06555@gmail.com](mailto:alejandro.06555@gmail.com)
 * **LinkedIn:** [Alejandro Manuel Cejas](https://www.linkedin.com/in/alejandro-manuel-cejas)
 * **GitHub:** [Alejandro-MCejas](https://github.com/Alejandro-MCejas)
+
+
+# 👋 Hi, I'm Alejandro Manuel Cejas
+
+## 💻 Full Stack Web Developer | Backend-focused
+
+I'm a **Full Stack Web Developer and Computer Technician**, with a strong interest in backend development and building web applications and REST APIs.
+
+I primarily work with **TypeScript, JavaScript, Node.js, NestJS, Express, React, Next.js, PostgreSQL, and TypeORM**. I'm particularly interested in designing and building well-structured solutions, from business logic and APIs to data modeling and frontend integration.
+
+---
+
+## 🛠️ Technologies
+
+### Languages
+
+**JavaScript** · **TypeScript**
+
+### Frontend
+
+**React** · **Next.js** · **HTML** · **CSS**
+
+### Backend
+
+**Node.js** · **Express** · **NestJS**
+
+### Databases
+
+**PostgreSQL** · **MongoDB**
+
+### ORM / ODM
+
+**TypeORM** · **Mongoose**
+
+### Tools
+
+**Git** · **GitHub** · **Swagger** · **Postman** · **Nginx**
+
+---
+
+## 🚀 Projects
+
+I enjoy learning by building and applying my knowledge to complete projects, working across both frontend and backend.
+
+I'm currently developing projects focused on:
+
+* **Appointment and management systems**, including authentication, roles, user management, and scheduling.
+* **Calculation tools and user-focused applications**, aimed at solving specific problems through simple and functional interfaces.
+* **REST APIs**, working with authentication, authorization, validation, entity relationships, and relational databases.
+* **Full stack applications**, integrating frontend, backend, and data persistence.
+
+---
+
+## 🎓 Education
+
+**IT Technician**
+Technical secondary education.
+
+**Full Stack Web Development — Henry**
+Intensive training focused on full stack web application development, with a specialization in backend development.
+
+---
+
+## 🌱 Currently
+
+I'm focused on continuing my professional development as a **Full Stack Developer with a backend focus**, deepening my knowledge of architecture, API design, databases, and software development best practices.
+
+I'm also continuously improving my technical English and gaining more experience building and deploying real-world applications.
+
+---
+
+## 📫 Contact
+
+* **Email:** [alejandro.06555@gmail.com](mailto:alejandro.06555@gmail.com)
+* **LinkedIn:** [Alejandro Manuel Cejas](https://www.linkedin.com/in/alejandro-manuel-cejas)
+* **GitHub:** [Alejandro-MCejas](https://github.com/Alejandro-MCejas)
+
