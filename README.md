@@ -10,7 +10,7 @@ Trabajo principalmente con **TypeScript, JavaScript, Node.js, NestJS, Express, R
 
 ## 🛠️ Tecnologías
 
-### Languages
+### Lenguajes
 
 **JavaScript** · **TypeScript**
 
@@ -22,7 +22,7 @@ Trabajo principalmente con **TypeScript, JavaScript, Node.js, NestJS, Express, R
 
 **Node.js** · **Express** · **NestJS**
 
-### Databases
+### Bases de datos
 
 **PostgreSQL** · **MongoDB**
 
@@ -30,9 +30,9 @@ Trabajo principalmente con **TypeScript, JavaScript, Node.js, NestJS, Express, R
 
 **TypeORM** · **Mongoose**
 
-### Tools
+### Herramientas
 
-**Git** · **GitHub** · **Swagger** · **Postman** · **Nginx**
+**Git** · **GitHub** · **Swagger** · **Apidog** · **Jira**
 
 ---
 
