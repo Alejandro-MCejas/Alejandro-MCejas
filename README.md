@@ -69,7 +69,7 @@ También estoy trabajando en mejorar continuamente mi inglés técnico y mi expe
 
 ## 📫 Contacto
 
-* **Email:** [alejandro.06555@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=alejandro.06555@gmail.com)
+* **Email:** [alejandro.06555@gmail.com](mailto:alejandro.06555@gmail.com)
 * **LinkedIn:** [Alejandro Manuel Cejas](https://www.linkedin.com/in/alejandro-manuel-cejas)
 * **GitHub:** [Alejandro-MCejas](https://github.com/Alejandro-MCejas)
 
@@ -145,7 +145,7 @@ I'm also continuously improving my technical English and gaining more experience
 
 ## 📫 Contact
 
-* **Email:** [alejandro.06555@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=alejandro.06555@gmail.com)
+* **Email:** [alejandro.06555@gmail.com](mailto:alejandro.06555@gmail.com)
 * **LinkedIn:** [Alejandro Manuel Cejas](https://www.linkedin.com/in/alejandro-manuel-cejas)
 * **GitHub:** [Alejandro-MCejas](https://github.com/Alejandro-MCejas)
 
