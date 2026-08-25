@@ -1,84 +1,74 @@
-## Hola soy Alejandro Manuel Cejas
+# 👋 Hola, soy Alejandro Manuel Cejas
 
-# 💻 Desarrollador Web Full Stack | Especialización en Backend
+## 💻 Full Stack Web Developer | Backend-focused
 
-Graduado de la carrera **Desarrollo Web Full Stack** en **Henry**, donde he adquirido habilidades prácticas en tecnologías como:
+Soy **Desarrollador Web Full Stack y Técnico en Informática**, con especial interés en el desarrollo backend y en la construcción de aplicaciones web y APIs REST.
 
-- **Lenguajes de programación:** JavaScript, TypeScript  
-- **Frameworks y Librerías:** Express, NestJS, React  
-- **Bases de datos:** PostgreSQL, MongoDB  
-- **ORMs:** TypeORM, Mongoose  
-
-He aplicado estos conocimientos en proyectos clave:
-
-- **Módulo 2:** Creación de una página web full stack funcional.  
-- **Módulo 3:** Desarrollo de otra aplicación full stack con mayor complejidad técnica.  
-- **Módulo 4:** Especialización en backend mediante una API robusta utilizando NestJS y PostgreSQL.  
-- **Proyecto final:** Desarrollo de una tienda virtual de videojuegos, integrando diversas tecnologías en un entorno profesional.  
+Trabajo principalmente con **TypeScript, JavaScript, Node.js, NestJS, Express, React, Next.js, PostgreSQL y TypeORM**. Me interesa especialmente diseñar y desarrollar soluciones bien estructuradas, desde la lógica de negocio y las APIs hasta el modelado de datos y la integración con el frontend.
 
 ---
 
-## 🎯 Objetivos
+## 🛠️ Tecnologías
 
-- Mejorar continuamente mis conocimientos en programación.  
-- Aprender nuevas tecnologías.  
-- Fortalecer mi nivel de inglés para expandir mis horizontes y consolidarme en la industria tecnológica.  
+### Languages
 
----
+**JavaScript** · **TypeScript**
 
-## 🌟 Sobre mí
+### Frontend
 
-Cuento con certificación como Técnico en Informática a nivel secundario y busco oportunidades laborales que me permitan crecer y aportar como desarrollador.
+**React** · **Next.js** · **HTML** · **CSS**
 
-Si buscas a alguien apasionado por la tecnología, con mentalidad de aprendizaje continuo y compromiso con la excelencia, estaré encantado de conversar sobre cómo puedo contribuir a tu equipo.
+### Backend
 
----
+**Node.js** · **Express** · **NestJS**
 
-## 📞 Contacto
+### Databases
 
-- **Email:** alejandro.06555@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/alejandro-manuel-cejas-7296a42bb/
+**PostgreSQL** · **MongoDB**
 
----
+### ORM / ODM
 
-## Hello, I'm Alejandro Manuel Cejas
+**TypeORM** · **Mongoose**
 
-# 💻 Full Stack Web Developer | Backend Specialization
+### Tools
 
-Graduate of the Full Stack Web Development program at Henry, where I've gained hands-on skills in technologies such as:
-
-- **Programming Languages:** JavaScript, TypeScript  
-- **Frameworks and Libraries:** Express, NestJS, React  
-- **Databases:** PostgreSQL, MongoDB  
-- **ORMs:** TypeORM, Mongoose  
-
-I have applied these technologies in key projects:
-
-- **Module 2:** Creation of a functional full stack web application.  
-- **Module 3:** Development of another full stack application with greater technical complexity.  
-- **Module 4:** Backend specialization by building a robust API with NestJS and PostgreSQL.  
-- **Final Project:** Development of a virtual video game store, integrating multiple technologies in a professional environment.  
+**Git** · **GitHub** · **Swagger** · **Postman** · **Nginx**
 
 ---
 
-## 🎯 Goals
+## 🚀 Proyectos
 
-- Continuously enhance my programming knowledge.  
-- Learn new technologies.  
-- Strengthen my English skills to broaden my horizons and establish myself in the tech industry.  
+Me gusta aprender construyendo y aplicar los conocimientos en proyectos completos, trabajando tanto en frontend como en backend.
 
----
+Actualmente estoy desarrollando proyectos enfocados en:
 
-## 🌟 About Me
-
-I hold a certification as an IT Technician at the high school level and seek opportunities to contribute and grow as a developer.
-
-If you're looking for someone passionate about technology, with a mindset of continuous learning and a commitment to excellence, I’d be happy to discuss how I can contribute to your team.
+* **Sistemas de gestión y turnos**, con autenticación, roles, gestión de usuarios y citas.
+* **Aplicaciones de cálculo y herramientas para usuarios**, buscando resolver problemas concretos mediante interfaces simples y funcionales.
+* **APIs REST**, trabajando con autenticación, autorización, validaciones, relaciones entre entidades y bases de datos relacionales.
+* **Aplicaciones full stack**, integrando frontend, backend y persistencia de datos.
 
 ---
 
-## 📞 Contact
+## 🎓 Formación
 
-- **Email:** alejandro.06555@gmail.com 
-- **LinkedIn:** https://www.linkedin.com/in/alejandro-manuel-cejas-7296a42bb/
+**Técnico en Informática**
+Formación secundaria técnica.
 
+**Desarrollo Web Full Stack — Henry**
+Formación intensiva orientada al desarrollo de aplicaciones web full stack, con especialización en backend.
+
+---
+
+## 🌱 Actualmente
+
+Estoy enfocado en seguir desarrollándome profesionalmente como **Full Stack Developer con orientación backend**, profundizando en arquitectura, diseño de APIs, bases de datos y buenas prácticas de desarrollo.
+
+También estoy trabajando en mejorar continuamente mi inglés técnico y mi experiencia construyendo y desplegando aplicaciones reales.
+
+---
+
+## 📫 Contacto
+
+* **Email:** [alejandro.06555@gmail.com](mailto:alejandro.06555@gmail.com)
+* **LinkedIn:** [Alejandro Manuel Cejas](https://www.linkedin.com/in/alejandro-manuel-cejas)
+* **GitHub:** [Alejandro-MCejas](https://github.com/Alejandro-MCejas)
